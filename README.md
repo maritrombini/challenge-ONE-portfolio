@@ -47,7 +47,7 @@ Projeto desenvolvido para o Challenge do Programa ONE - Oracle Next Education, e
 
 ## Como acessar
 
-Para acessar, [clique aqui](#).
+Para acessar, [clique aqui](https://maritrombini.github.io/challenge-ONE-portfolio/).
 
 ## Autora e contato
 
